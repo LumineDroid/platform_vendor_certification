@@ -1,14 +1,16 @@
 {
-    "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro Fold",
-    "FINGERPRINT": "google/comet_beta/comet:16/BP41.250916.010.A1/14281945:user/release-keys",
-    "BRAND": "google",
-    "PRODUCT": "comet_beta",
-    "DEVICE": "comet",
-    "VERSION.RELEASE": "16",
     "ID": "BP41.250916.010.A1",
-    "VERSION.INCREMENTAL": "14281945",
+    "BRAND": "google",
+    "DEVICE": "mustang",
+    "FINGERPRINT": "google/mustang_beta/mustang:16/BP41.250916.010.A1/14281945:user/release-keys",
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 10 Pro XL",
+    "PRODUCT": "mustang_beta",
+    "SECURITY_PATCH": "2025-10-05",
+    "DEVICE_INITIAL_SDK_INT": "32",
     "TYPE": "user",
-    "TAGS": "release-keys",
-    "VERSION.DEVICE_INITIAL_SDK_INT": "32"
+    "TAG": "release-keys",
+    "RELEASE": "16",
+    "SDK_INT": "36",
+    "DEBUG": false
 }
